@@ -740,7 +740,7 @@ def get_file_download_link(file_path, file_label):
 # ==================== Streamlit应用 ====================
 def main():
     st.set_page_config(
-        page_title="遥感影像监督分类系统 v4.4 - Web版",
+        page_title="遥感影像监督分类系统 v4.4 - 3S&ML实验室",
         page_icon="🛰️",
         layout="wide",
         initial_sidebar_state="expanded"
